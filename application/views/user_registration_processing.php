@@ -1,0 +1,1 @@
+<h1>User Full Name: <?php $data['usr_full_name']; ?></h1>
