@@ -1,3 +1,27 @@
+################################################
+About this project
+################################################
+I am a recent graduate from Central Queensland University,
+I have developed this web application called "Search Contractors"
+which will allow users to post jobs and search local contractors.
+Similarly contractors can register themselves in our system to search 
+jobs.
+
+**********************************************************
+
+I have initially developed Minimal features and gradually optimized the 
+applicaton.
+
+
+
+
+
+
+
+
+
+
+
 ###################
 What is CodeIgniter
 ###################
