@@ -15,8 +15,11 @@ applicaton.
 Technologies used:
 
 Front end: HTML 5, CSS, Bootstrap, JQuery
+
 Backend: PHP Codeignitor
+
 Database: MySQL
+
 Database library: PHP CI's default Mysqli features
 ************************************************************
 Key Features:
@@ -32,72 +35,49 @@ AJAX Codes in various forms.
 
 
 ###################
-What is CodeIgniter
+About the Programmer
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+My name is Bibek Sigdel and I am a software engineer graduated from Trivuwan University, Nepal.
+During my final year of degree, I was provided with an opportunity to work for a hongkong based
+web developement company named Cross-over Nepal. There I worked with senior programmers to design and
+developed various web application modules for large scale website www.polifonic.io . I was able to learn 
+various tools and technologies such as PHP Symfony, MySQL, GIT, Linux, JSON and so on.
+
+Once I successfully completed my term as a trainiee and was promoted to Junior developer position, I was offered 
+to sign a 2 years contract with the company, which I could not and had to leave the company.
+
+Then, I joined another company named "Rigorous Web Nepal" where I was responsible to develop backed system and plugins for 
+wordpress sites. Eventually, I decided to come to Australia for further studies and joined Masters of Information System course in Central Queensland University.
+
+Fast forward to December, 2019, I have now graduated from CQU and I am looking for entry level web developement opportunities in Australian IT firms. To prove my technical skills, I have used my github profile to upload my projects and showcase my programming skills.
 
 *******************
-Release Information
+Education
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+2019: Masters of Information System (Central Queensland University)
+Passed with overall Distinction.
+
+2016: Bachelors Degree in Computer Engineering (Trivuwan University)
+Pasesed with First Division.
+
+2011: High School (Oxford Higher Secondary School)
+Passed with First Division with major in Computer Science.
+
 
 **************************
-Changelog and New Features
+Key Skills
 **************************
+Front End: HTML, CSS, Bootstrap, SAAS.
+Scripting: Java Script, JQuery, AJAX.
+Backend: PHP, JAVA JSP.
+Database: MySQL, Oracle.
+Other Programing Languages: C, C++, JAVA.
+Version Control: GIT
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
-
-*******************
-Server Requirements
-*******************
-
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+*************************
+Additional Information
+*************************
+Email: bibeksigdel55@gmail.com
+Phone: +61 420347250
