@@ -9,8 +9,12 @@
 		</div>
 
 		<div class="form-group">
+			
 			<label for="contractor_registration_form_email">Enter your Email</label>
-			<input type="email" class="form-control" name="contractor_registration_form_email">
+			<input type="email" class="form-control" id = "contractor_registration_form_email" name="contractor_registration_form_email">
+			<div class="alert alert-danger" id="contractor_registration_form_incorrect_email_banner">
+				<strong>Email already registered or incorrect email</strong>
+			</div>
 		</div>
 		<div>
 			<label for="contractor_registration_form_password">Enter your Password</label>
