@@ -35,7 +35,16 @@
 			<input type="text" class="form-control" name="contractor_registration_form_postcode">
 
 			<label for="contractor_registration_form_state">State</label>
-			<input type="text" class="form-control" name="contractor_registration_form_state">
+			<select class="form-control" name="contractor_registration_form_state">
+				<option value="NSW">NSW</option>
+				<option value="QLD">QLD</option>
+				<option value="VIC">VIC</option>
+				<option value="SA">SA</option>
+				<option value="TAS">TAS</option>
+				<option value="WA">WA</option>
+				<option value="ACT">ACT</option>
+				<option value="NT">NT</option>
+			</select>
 		</div>
 
 		<div>
@@ -69,7 +78,7 @@
 	</div>
 </div>
 <?php include_once(APPPATH. '/views/template/footer.php');?>
-
+<script src = "<?php echo base_url();?>js/contractor_registration_validation.js"></script>
 <script>
 	$(document).ready(function() {
 		$('#contractor_registration_form_service_category').change(function() {
