@@ -10,8 +10,17 @@ jobs.
 **********************************************************
 
 I have initially developed Minimal features and gradually optimized the 
-applicaton.
+applicaton. 
 
+Technologies used:
+
+Front end: HTML 5, CSS, Bootstrap, JQuery
+Backend: PHP Codeignitor
+Database: MySQL
+Database library: PHP CI's default Mysqli features
+************************************************************
+Key Features:
+AJAX Codes in various forms.
 
 
 
