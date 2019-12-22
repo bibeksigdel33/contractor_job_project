@@ -5,7 +5,7 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 		<script src="<?php echo base_url(); ?>js/script.js"></script>
 		<?php echo base_url(); ?>
-		<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/style.css">
+		<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/style.css?1422585377">
 	</head>
 	<body>
 		
